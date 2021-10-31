@@ -1,12 +1,8 @@
-# Galera Cluster 
-
-Install MariaDB Galera Cluster on Linux
-The Scenario
-
-
-
 
 # Galera Cluster
+    Install MariaDB Galera Cluster on Linux
+    The Scenario
+
     The You are working as a Systems Administrator in a large company with many distributed offices, and have been tasked 
     with setting up a MySQL-compatible cluster. You have chosen to implement MariaDB Galera cluster as a proof of concept.
  
