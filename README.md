@@ -1,16 +1,17 @@
-# galera
-Galera Cluster 
+# Galera Cluster 
+
 Install MariaDB Galera Cluster on Linux
 The Scenario
 
-You are working as a Systems Administrator in a large company with many distributed offices, and have been tasked with setting up a MySQL-compatible cluster. You have chosen to implement MariaDB Galera cluster as a proof of concept.
+You are working as a Systems Administrator in a large company with many distributed offices, and have been tasked 
+with setting up a MySQL-compatible cluster. You have chosen to implement MariaDB Galera cluster as a proof of concept.
 
-In order to do this, you will need to complete the following tasks:
 
-1. Install the packages.
-2. Configure the firewall and SELinux.
-3. Bootstrap a new cluster.
-4. Add nodes to the cluster.
+In order to do this, you will need to complete the following tasks.
+         1. Install the packages.
+         2. Configure the firewall and SELinux.
+         3. Bootstrap a new cluster.
+         4. Add nodes to the cluster.
 
 
 The YUM repository file and node configurations are available in the download section of this course.
